@@ -10,7 +10,7 @@
 
     ###Tableau Link:
 
-    Tableau Public worksheets including tabs to toggle can be found here
+    Tableau Public stories including worksheets of visualizations live in the following link
    https://public.tableau.com/app/profile/zackary.gheen/viz/NYCCitibikeChallenge_16446883544210/Story1?publish=yes
 
 #**Overview of Analysis**
