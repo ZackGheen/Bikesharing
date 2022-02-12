@@ -1,8 +1,8 @@
-#**NYC Citibike Data Analysis in Tableau**
+**NYC Citibike Data Analysis in Tableau**
 
 Analysis of August 2019 data from NYC's shared bike network Citibike, which includes detailed trip data for the month
 
-##**Resources**
+**Resources**
 
 Data Sources: Citibike trip data for August 2019
 
