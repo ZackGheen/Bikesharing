@@ -1,19 +1,19 @@
-#**NYC Citibike Data Analysis in Tableau**
+# **NYC Citibike Data Analysis in Tableau**
 
     Analysis of August 2019 data from NYC's shared bike network Citibike, which includes detailed trip data for the month
 
   ## **Resources**
 
-    ### Data Sources: Citibike trip data for August 2019
+     Data Sources: Citibike trip data for August 2019
 
-    ### Software: Tableau Public 2021.4.3, Jupyter Notebook 6.3.0
+     Software: Tableau Public 2021.4.3, Jupyter Notebook 6.3.0
 
-    ### Tableau Link:
+     Tableau Link:
 
     Tableau Public stories including worksheets of visualizations live in the following link
    https://public.tableau.com/app/profile/zackary.gheen/viz/NYCCitibikeChallenge_16446883544210/Story1?publish=yes
 
-# **Overview of Analysis**
+## **Overview of Analysis**
 
 This is an Analysis of the CitiBike business model in NYC to determine if the model would be viable in the city of Des Moines, Iowa. Citibike data includes invividual trips for the month, including the gender of the user, the start and end location of the trip by coordinates, the start and end time and trip duration, as well as information on whether the customer is a subscriber to the network.
 
