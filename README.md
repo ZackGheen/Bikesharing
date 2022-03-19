@@ -2,22 +2,22 @@
 
     Analysis of August 2019 data from NYC's shared bike network Citibike, which includes detailed trip data for the month
 
-  ##**Resources**
+  ## **Resources**
 
-    ###Data Sources: Citibike trip data for August 2019
+    ### Data Sources: Citibike trip data for August 2019
 
-    ###Software: Tableau Public 2021.4.3, Jupyter Notebook 6.3.0
+    ### Software: Tableau Public 2021.4.3, Jupyter Notebook 6.3.0
 
-    ###Tableau Link:
+    ### Tableau Link:
 
     Tableau Public stories including worksheets of visualizations live in the following link
    https://public.tableau.com/app/profile/zackary.gheen/viz/NYCCitibikeChallenge_16446883544210/Story1?publish=yes
 
-#**Overview of Analysis**
+# **Overview of Analysis**
 
 This is an Analysis of the CitiBike business model in NYC to determine if the model would be viable in the city of Des Moines, Iowa. Citibike data includes invividual trips for the month, including the gender of the user, the start and end location of the trip by coordinates, the start and end time and trip duration, as well as information on whether the customer is a subscriber to the network.
 
-##**Results**
+## **Results**
 Analysis of August 2019 data shows several clear findings:
 
 The majority of trips are of short duration, with most lasting around 5 minutes and use dropping significantly around the 30 minute mark
@@ -46,10 +46,10 @@ Making up more than 81% of the usage base Subscribers are clearly the backbone o
 ![image](https://user-images.githubusercontent.com/93295751/153723594-71ef161a-bd56-4174-9b41-663acc9868d2.png)
 
 
-#**Summary**
+# **Summary**
 
   During August 2019 Citibike usage was vastly more popular among subscribers, making up over 81% of the total usage. Additionally male users seemed to use the services more than there other gendered counterparts. Timeframes of usage were higher most always during 'traditional commuting hours' especially for subscribers, this could point to the idea that Ctibike users see it as an effective alternative to the use of subways and other shared forms of transportation. Locations of usage seem to be heavier in areas of higher population density as well as areas of higher business density; particularly Manhattan sees much more usage of the bikesharing program. 
-##**Suggested Additional Analyses**
+## **Suggested Additional Analyses**
 
    I believe it would be interesting to run analyses with the same measures on different portions of the year, with an emphasis on weather patterns and temperature changes to see how these variables affect usage of the bikesharing program. I believe we could find value in seeing how holidays and other special events affect usage. It might as well be beneficial to look into the descrepencies we see with birth years and whether those birth years seeing the discrepencies are populated more with subcribers or customers. It would make sense that some customers entered incorrect birth years by mistake  when checking out a bike, and didn't bother to correct their mistaken information. 
     
